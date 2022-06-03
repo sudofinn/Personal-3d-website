@@ -10,7 +10,7 @@ The website has two cool features.
 2. It has some nice typewriter animations at the start and at the end. 🏞️
 
 ## Visit
-The website should be available in a few hours. You can then find at probably at finnguha.dev . Thanks for checking out. 🚵
+You can then find at probably at finnguha.dev and if this does not work try finnguha.vercel.app . Thanks for checking out. 🚵
 
 ## Use
 You can use part of the code for your own website. 👍
